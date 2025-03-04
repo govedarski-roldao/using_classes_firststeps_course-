@@ -54,8 +54,17 @@ class Rectangle:
         self.lowleft = lowleft
         self.upright = upright
 
-    def guessed_area(self, guess):
+    def calculate_area(self):
+        area = (self.upright.x - self.lowleft.x) * (self.upright.y - self.lowleft.y)
 
+    def guessed_area(self, guess):
+        area = float(self.calculate_area())
+        if guess > area:
+            print(f"You choose to high, the area was {area}")
+        elif guess < area:
+            print(f"You choose to low, the area was {area}")
+        else:
+            print("Correct")
 
 
 pointx = Point(6, 7)
@@ -67,3 +76,4 @@ user_point = Point(float(input("Guess X:")), float(input("Guess Y:")))
 print("Your point was inside of the rectange:", user_point.falls_in_rectangle((rectangle_two)))
 
 guess_area = float(input("Please, try to guess the area of the rectangle:"))
+rectangle_two.guessed_area(guess_area)
