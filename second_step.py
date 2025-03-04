@@ -28,14 +28,12 @@
 
 
 class Point:
-
-
     def __init__(self, x, y):
         self.x = x
         self.y = y
 
-    def falls_in_rectangle(self, lowleft, upright):
-        if lowleft[0] < self.x < upright[0] and lowleft[1] < self.y < upright[1]:
+    def falls_in_rectangle(self,rectangle):
+        if rectangle.lowleft.x < self.x < rectangle.upright.x and rectangle.lowleft.y < self.y < rectangle.upright.y:
             return True
         else:
             return False
@@ -44,8 +42,16 @@ class Point:
         return ((self.x - point.x) ** 2 + (self.y - point.y) ** 2) ** 0.5
 
 
-point1 = Point(1, 1)
+point1 = Point(6, 7)
 point2 = Point(2, 2)
 
 
-print(Point(3, 4).falls_in_rectangle((5, 6), (7, 9)))
+class Rectangle:
+    def __init__(self, lowleft, upright):
+        self.lowleft = lowleft
+        self.upright = upright
+
+
+pointx = Point(6, 7)
+rectanglex = Rectangle(Point(5, 6), Point(7, 9))
+pointx.falls_in_rectangle(rectanglex)
