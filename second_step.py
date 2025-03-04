@@ -1,3 +1,6 @@
+from random import randint
+
+
 # class Paint:
 #     def __init__(self, buckets, color):
 #         self.buckets = buckets
@@ -32,7 +35,7 @@ class Point:
         self.x = x
         self.y = y
 
-    def falls_in_rectangle(self,rectangle):
+    def falls_in_rectangle(self, rectangle):
         if rectangle.lowleft.x < self.x < rectangle.upright.x and rectangle.lowleft.y < self.y < rectangle.upright.y:
             return True
         else:
@@ -51,7 +54,16 @@ class Rectangle:
         self.lowleft = lowleft
         self.upright = upright
 
+    def guessed_area(self, guess):
+
+
 
 pointx = Point(6, 7)
-rectanglex = Rectangle(Point(5, 6), Point(7, 9))
-pointx.falls_in_rectangle(rectanglex)
+rectangle_x = Rectangle(Point(5, 6), Point(7, 9))
+rectangle_two = Rectangle(Point(randint(0, 9), randint(0, 9)), Point(randint(10, 19), randint(10, 19)))
+print(
+    f'Rectangle coordinates: {rectangle_two.lowleft.x}, {rectangle_two.lowleft.y} and {rectangle_two.upright.x}, {rectangle_two.upright.y}')
+user_point = Point(float(input("Guess X:")), float(input("Guess Y:")))
+print("Your point was inside of the rectange:", user_point.falls_in_rectangle((rectangle_two)))
+
+guess_area = float(input("Please, try to guess the area of the rectangle:"))
