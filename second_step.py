@@ -1,5 +1,7 @@
 from random import randint
 
+from main import DrawRectangle
+
 
 # class Paint:
 #     def __init__(self, buckets, color):
@@ -69,9 +71,11 @@ class Rectangle:
 
 pointx = Point(6, 7)
 rectangle_x = Rectangle(Point(5, 6), Point(7, 9))
-rectangle_two = Rectangle(Point(randint(0, 9), randint(0, 9)), Point(randint(10, 19), randint(10, 19)))
+rectangle_two = Rectangle(Point(randint(0, 100), randint(0, 100)), Point(randint(100, 190), randint(100, 190)))
 print(
     f'Rectangle coordinates: {rectangle_two.lowleft.x}, {rectangle_two.lowleft.y} and {rectangle_two.upright.x}, {rectangle_two.upright.y}')
+drawing = DrawRectangle(rectangle_two)
+drawing.draw()
 user_point = Point(float(input("Guess X:")), float(input("Guess Y:")))
 print("Your point was inside of the rectange:", user_point.falls_in_rectangle((rectangle_two)))
 
