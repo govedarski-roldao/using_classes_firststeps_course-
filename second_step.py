@@ -69,15 +69,35 @@ class Rectangle:
 
 
 pointx = Point(6, 7)
+
+
 rectangle_x = Rectangle(Point(5, 6), Point(7, 9))
 
+
 rectangle_two = Rectangle(Point(randint(-200, 100), randint(-200, 100)), Point(randint(100, 190), randint(100, 190)))
+
+
 print(
     f'Rectangle coordinates: {rectangle_two.lowleft.x}, {rectangle_two.lowleft.y} and {rectangle_two.upright.x}, {rectangle_two.upright.y}')
+
+
 drawing = DrawRectangle(rectangle_two)
+
+
 drawing.draw()
+
+
 user_point = Point(float(input("Guess X:")), float(input("Guess Y:")))
-print("Your point was inside of the rectange:", user_point.falls_in_rectangle((rectangle_two)))
+
+
+print("Your point was inside of the rectangle:", user_point.falls_in_rectangle(rectangle_two))
+
+
+drawing.point_guessed(user_point)
+
 
 guess_area = float(input("Please, try to guess the area of the rectangle:"))
+
+
 rectangle_two.guessed_area(guess_area)
+
