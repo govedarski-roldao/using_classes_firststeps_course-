@@ -1,5 +1,4 @@
 from random import randint
-
 from main import DrawRectangle
 
 
@@ -71,7 +70,8 @@ class Rectangle:
 
 pointx = Point(6, 7)
 rectangle_x = Rectangle(Point(5, 6), Point(7, 9))
-rectangle_two = Rectangle(Point(randint(0, 100), randint(0, 100)), Point(randint(100, 190), randint(100, 190)))
+
+rectangle_two = Rectangle(Point(randint(-200, 100), randint(-200, 100)), Point(randint(100, 190), randint(100, 190)))
 print(
     f'Rectangle coordinates: {rectangle_two.lowleft.x}, {rectangle_two.lowleft.y} and {rectangle_two.upright.x}, {rectangle_two.upright.y}')
 drawing = DrawRectangle(rectangle_two)
