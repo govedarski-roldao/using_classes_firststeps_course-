@@ -1,5 +1,5 @@
 from random import randint
-from main import DrawRectangle
+import turtle
 
 
 # class Paint:
@@ -57,6 +57,7 @@ class Rectangle:
 
     def calculate_area(self):
         area = (self.upright.x - self.lowleft.x) * (self.upright.y - self.lowleft.y)
+        print(area)
 
     def guessed_area(self, guess):
         area = float(self.calculate_area())
@@ -68,36 +69,45 @@ class Rectangle:
             print("Correct")
 
 
-pointx = Point(6, 7)
+class GuiRectangle(Rectangle):
+    def draw(self, canvas):
+        self.starting_position = self.lowleft
+        self.horizontal = self.upright.x - self.lowleft.x
+        self.vertical = self.upright.y - self.lowleft.y
+        canvas.penup()
+        canvas.goto(self.starting_position.x, self.starting_position.y)
+        canvas.pendown()
+        canvas.forward(self.horizontal)
+        canvas.left(90)
+        canvas.forward(self.vertical)
+        canvas.left(90)
+        canvas.forward(self.horizontal)
+        canvas.left(90)
+        canvas.forward(self.vertical)
+        canvas.penup()
+        turtle.done()
 
 
-rectangle_x = Rectangle(Point(5, 6), Point(7, 9))
+gui_rectangle = GuiRectangle(Point(randint(-200, 200), randint(-200, 200)), Point(randint(100, 190), randint(100, 190)))
+myturle = turtle.Turtle()
+gui_rectangle.draw(myturle)
+gui_rectangle.calculate_area
 
-
-rectangle_two = Rectangle(Point(randint(-200, 100), randint(-200, 100)), Point(randint(100, 190), randint(100, 190)))
-
-
-print(
-    f'Rectangle coordinates: {rectangle_two.lowleft.x}, {rectangle_two.lowleft.y} and {rectangle_two.upright.x}, {rectangle_two.upright.y}')
-
-
-drawing = DrawRectangle(rectangle_two)
-
-
-drawing.draw()
-
-
-user_point = Point(float(input("Guess X:")), float(input("Guess Y:")))
-
-
-print("Your point was inside of the rectangle:", user_point.falls_in_rectangle(rectangle_two))
-
-
-drawing.point_guessed(user_point)
-
-
-guess_area = float(input("Please, try to guess the area of the rectangle:"))
-
-
-rectangle_two.guessed_area(guess_area)
-
+#
+# rectangle_two = gui_rectangle(Point(randint(-200, 200), randint(-200, 200)), Point(randint(100, 190), randint(100, 190)))
+#
+# print(
+#     f'Rectangle coordinates: {rectangle_two.lowleft.x}, {rectangle_two.lowleft.y} and {rectangle_two.upright.x}, {rectangle_two.upright.y}')
+#
+#
+# drawing.draw()
+#
+# user_point = Point(float(input("Guess X:")), float(input("Guess Y:")))
+#
+# print("Your point was inside of the rectangle:", user_point.falls_in_rectangle(rectangle_two))
+#
+# drawing.point_guessed(user_point)
+#
+# guess_area = float(input("Please, try to guess the area of the rectangle:"))
+#
+# rectangle_two.guessed_area(guess_area)
