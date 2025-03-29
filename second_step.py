@@ -88,26 +88,17 @@ class GuiRectangle(Rectangle):
         turtle.done()
 
 
+class GuiPoint(Point):
+    def mark_point(self, canvas):
+        canvas.goto(self.)
+
+# Get the choice from user
+user_point = Point(float(input("Guess X:")), float(input("Guess Y:")))
+guess_area = float(input("Please, try to guess the area of the rectangle:"))
+# print the same result
 gui_rectangle = GuiRectangle(Point(randint(-200, 200), randint(-200, 200)), Point(randint(100, 190), randint(100, 190)))
+
+# Construct the gui
 myturle = turtle.Turtle()
 gui_rectangle.draw(myturle)
 gui_rectangle.calculate_area
-
-#
-# rectangle_two = gui_rectangle(Point(randint(-200, 200), randint(-200, 200)), Point(randint(100, 190), randint(100, 190)))
-#
-# print(
-#     f'Rectangle coordinates: {rectangle_two.lowleft.x}, {rectangle_two.lowleft.y} and {rectangle_two.upright.x}, {rectangle_two.upright.y}')
-#
-#
-# drawing.draw()
-#
-# user_point = Point(float(input("Guess X:")), float(input("Guess Y:")))
-#
-# print("Your point was inside of the rectangle:", user_point.falls_in_rectangle(rectangle_two))
-#
-# drawing.point_guessed(user_point)
-#
-# guess_area = float(input("Please, try to guess the area of the rectangle:"))
-#
-# rectangle_two.guessed_area(guess_area)
