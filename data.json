@@ -1,0 +1,5384 @@
+[
+    {
+        "palavra": "Q",
+        "coordenadas": {
+            "x": 0,
+            "y": 15,
+            "largura": 14,
+            "altura": 14
+        }
+    },
+    {
+        "palavra": "Overview",
+        "coordenadas": {
+            "x": 42,
+            "y": 16,
+            "largura": 70,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Q&A",
+        "coordenadas": {
+            "x": 137,
+            "y": 16,
+            "largura": 34,
+            "altura": 12
+        }
+    },
+    {
+        "palavra": "Notes",
+        "coordenadas": {
+            "x": 196,
+            "y": 16,
+            "largura": 43,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Announcements",
+        "coordenadas": {
+            "x": 264,
+            "y": 16,
+            "largura": 124,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Reviews",
+        "coordenadas": {
+            "x": 414,
+            "y": 16,
+            "largura": 62,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Learning",
+        "coordenadas": {
+            "x": 489,
+            "y": 9,
+            "largura": 74,
+            "altura": 28
+        }
+    },
+    {
+        "palavra": "tools",
+        "coordenadas": {
+            "x": 570,
+            "y": 16,
+            "largura": 38,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Schedule",
+        "coordenadas": {
+            "x": 371,
+            "y": 117,
+            "largura": 71,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 447,
+            "y": 117,
+            "largura": 61,
+            "altura": 14
+        }
+    },
+    {
+        "palavra": "time",
+        "coordenadas": {
+            "x": 512,
+            "y": 117,
+            "largura": 34,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Learning",
+        "coordenadas": {
+            "x": 372,
+            "y": 140,
+            "largura": 52,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "alittle",
+        "coordenadas": {
+            "x": 429,
+            "y": 140,
+            "largura": 38,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "each",
+        "coordenadas": {
+            "x": 471,
+            "y": 140,
+            "largura": 29,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "day",
+        "coordenadas": {
+            "x": 505,
+            "y": 140,
+            "largura": 21,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "adds",
+        "coordenadas": {
+            "x": 530,
+            "y": 140,
+            "largura": 30,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "up.",
+        "coordenadas": {
+            "x": 564,
+            "y": 143,
+            "largura": 18,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Research",
+        "coordenadas": {
+            "x": 587,
+            "y": 140,
+            "largura": 57,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "shows",
+        "coordenadas": {
+            "x": 649,
+            "y": 140,
+            "largura": 38,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "that",
+        "coordenadas": {
+            "x": 691,
+            "y": 140,
+            "largura": 25,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "students",
+        "coordenadas": {
+            "x": 720,
+            "y": 140,
+            "largura": 54,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "who",
+        "coordenadas": {
+            "x": 778,
+            "y": 140,
+            "largura": 25,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "make",
+        "coordenadas": {
+            "x": 808,
+            "y": 140,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 846,
+            "y": 140,
+            "largura": 48,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "a",
+        "coordenadas": {
+            "x": 899,
+            "y": 143,
+            "largura": 7,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "habit",
+        "coordenadas": {
+            "x": 910,
+            "y": 140,
+            "largura": 31,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "are",
+        "coordenadas": {
+            "x": 945,
+            "y": 143,
+            "largura": 19,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "more",
+        "coordenadas": {
+            "x": 969,
+            "y": 143,
+            "largura": 31,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "likely",
+        "coordenadas": {
+            "x": 1004,
+            "y": 140,
+            "largura": 31,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "to",
+        "coordenadas": {
+            "x": 1039,
+            "y": 140,
+            "largura": 12,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "reach",
+        "coordenadas": {
+            "x": 371,
+            "y": 160,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "their",
+        "coordenadas": {
+            "x": 409,
+            "y": 160,
+            "largura": 28,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "goals.",
+        "coordenadas": {
+            "x": 441,
+            "y": 160,
+            "largura": 36,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "Set",
+        "coordenadas": {
+            "x": 482,
+            "y": 160,
+            "largura": 20,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "time",
+        "coordenadas": {
+            "x": 506,
+            "y": 160,
+            "largura": 27,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "aside",
+        "coordenadas": {
+            "x": 537,
+            "y": 160,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "to",
+        "coordenadas": {
+            "x": 573,
+            "y": 160,
+            "largura": 13,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learn",
+        "coordenadas": {
+            "x": 590,
+            "y": 160,
+            "largura": 30,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "and",
+        "coordenadas": {
+            "x": 624,
+            "y": 160,
+            "largura": 22,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "get",
+        "coordenadas": {
+            "x": 651,
+            "y": 160,
+            "largura": 20,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "reminders",
+        "coordenadas": {
+            "x": 676,
+            "y": 160,
+            "largura": 62,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "using",
+        "coordenadas": {
+            "x": 742,
+            "y": 163,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "your",
+        "coordenadas": {
+            "x": 779,
+            "y": 163,
+            "largura": 27,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 810,
+            "y": 160,
+            "largura": 49,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "scheduler.",
+        "coordenadas": {
+            "x": 864,
+            "y": 160,
+            "largura": 63,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Dismiss",
+        "coordenadas": {
+            "x": 489,
+            "y": 206,
+            "largura": 51,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Q",
+        "coordenadas": {
+            "x": 0,
+            "y": 15,
+            "largura": 14,
+            "altura": 14
+        }
+    },
+    {
+        "palavra": "Overview",
+        "coordenadas": {
+            "x": 42,
+            "y": 16,
+            "largura": 70,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Q&A",
+        "coordenadas": {
+            "x": 137,
+            "y": 16,
+            "largura": 34,
+            "altura": 12
+        }
+    },
+    {
+        "palavra": "Notes",
+        "coordenadas": {
+            "x": 196,
+            "y": 16,
+            "largura": 43,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Announcements",
+        "coordenadas": {
+            "x": 264,
+            "y": 16,
+            "largura": 124,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Reviews",
+        "coordenadas": {
+            "x": 414,
+            "y": 16,
+            "largura": 62,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Learning",
+        "coordenadas": {
+            "x": 489,
+            "y": 9,
+            "largura": 74,
+            "altura": 28
+        }
+    },
+    {
+        "palavra": "tools",
+        "coordenadas": {
+            "x": 570,
+            "y": 16,
+            "largura": 38,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Schedule",
+        "coordenadas": {
+            "x": 371,
+            "y": 117,
+            "largura": 71,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 447,
+            "y": 117,
+            "largura": 61,
+            "altura": 14
+        }
+    },
+    {
+        "palavra": "time",
+        "coordenadas": {
+            "x": 512,
+            "y": 117,
+            "largura": 34,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Learning",
+        "coordenadas": {
+            "x": 372,
+            "y": 140,
+            "largura": 52,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "alittle",
+        "coordenadas": {
+            "x": 429,
+            "y": 140,
+            "largura": 38,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "each",
+        "coordenadas": {
+            "x": 471,
+            "y": 140,
+            "largura": 29,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "day",
+        "coordenadas": {
+            "x": 505,
+            "y": 140,
+            "largura": 21,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "adds",
+        "coordenadas": {
+            "x": 530,
+            "y": 140,
+            "largura": 30,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "up.",
+        "coordenadas": {
+            "x": 564,
+            "y": 143,
+            "largura": 18,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Research",
+        "coordenadas": {
+            "x": 587,
+            "y": 140,
+            "largura": 57,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "shows",
+        "coordenadas": {
+            "x": 649,
+            "y": 140,
+            "largura": 38,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "that",
+        "coordenadas": {
+            "x": 691,
+            "y": 140,
+            "largura": 25,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "students",
+        "coordenadas": {
+            "x": 720,
+            "y": 140,
+            "largura": 54,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "who",
+        "coordenadas": {
+            "x": 778,
+            "y": 140,
+            "largura": 25,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "make",
+        "coordenadas": {
+            "x": 808,
+            "y": 140,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 846,
+            "y": 140,
+            "largura": 48,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "a",
+        "coordenadas": {
+            "x": 899,
+            "y": 143,
+            "largura": 7,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "habit",
+        "coordenadas": {
+            "x": 910,
+            "y": 140,
+            "largura": 31,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "are",
+        "coordenadas": {
+            "x": 945,
+            "y": 143,
+            "largura": 19,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "more",
+        "coordenadas": {
+            "x": 969,
+            "y": 143,
+            "largura": 31,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "likely",
+        "coordenadas": {
+            "x": 1004,
+            "y": 140,
+            "largura": 31,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "to",
+        "coordenadas": {
+            "x": 1039,
+            "y": 140,
+            "largura": 12,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "reach",
+        "coordenadas": {
+            "x": 371,
+            "y": 160,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "their",
+        "coordenadas": {
+            "x": 409,
+            "y": 160,
+            "largura": 28,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "goals.",
+        "coordenadas": {
+            "x": 441,
+            "y": 160,
+            "largura": 36,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "Set",
+        "coordenadas": {
+            "x": 482,
+            "y": 160,
+            "largura": 20,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "time",
+        "coordenadas": {
+            "x": 506,
+            "y": 160,
+            "largura": 27,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "aside",
+        "coordenadas": {
+            "x": 537,
+            "y": 160,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "to",
+        "coordenadas": {
+            "x": 573,
+            "y": 160,
+            "largura": 13,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learn",
+        "coordenadas": {
+            "x": 590,
+            "y": 160,
+            "largura": 30,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "and",
+        "coordenadas": {
+            "x": 624,
+            "y": 160,
+            "largura": 22,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "get",
+        "coordenadas": {
+            "x": 651,
+            "y": 160,
+            "largura": 20,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "reminders",
+        "coordenadas": {
+            "x": 676,
+            "y": 160,
+            "largura": 62,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "using",
+        "coordenadas": {
+            "x": 742,
+            "y": 163,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "your",
+        "coordenadas": {
+            "x": 779,
+            "y": 163,
+            "largura": 27,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 810,
+            "y": 160,
+            "largura": 49,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "scheduler.",
+        "coordenadas": {
+            "x": 864,
+            "y": 160,
+            "largura": 63,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Dismiss",
+        "coordenadas": {
+            "x": 489,
+            "y": 206,
+            "largura": 51,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Q",
+        "coordenadas": {
+            "x": 0,
+            "y": 15,
+            "largura": 14,
+            "altura": 14
+        }
+    },
+    {
+        "palavra": "Overview",
+        "coordenadas": {
+            "x": 42,
+            "y": 16,
+            "largura": 70,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Q&A",
+        "coordenadas": {
+            "x": 137,
+            "y": 16,
+            "largura": 34,
+            "altura": 12
+        }
+    },
+    {
+        "palavra": "Notes",
+        "coordenadas": {
+            "x": 196,
+            "y": 16,
+            "largura": 43,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Announcements",
+        "coordenadas": {
+            "x": 264,
+            "y": 16,
+            "largura": 124,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Reviews",
+        "coordenadas": {
+            "x": 414,
+            "y": 16,
+            "largura": 62,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Learning",
+        "coordenadas": {
+            "x": 489,
+            "y": 9,
+            "largura": 74,
+            "altura": 28
+        }
+    },
+    {
+        "palavra": "tools",
+        "coordenadas": {
+            "x": 570,
+            "y": 16,
+            "largura": 38,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Schedule",
+        "coordenadas": {
+            "x": 371,
+            "y": 117,
+            "largura": 71,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 447,
+            "y": 117,
+            "largura": 61,
+            "altura": 14
+        }
+    },
+    {
+        "palavra": "time",
+        "coordenadas": {
+            "x": 512,
+            "y": 117,
+            "largura": 34,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Learning",
+        "coordenadas": {
+            "x": 372,
+            "y": 140,
+            "largura": 52,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "alittle",
+        "coordenadas": {
+            "x": 429,
+            "y": 140,
+            "largura": 38,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "each",
+        "coordenadas": {
+            "x": 471,
+            "y": 140,
+            "largura": 29,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "day",
+        "coordenadas": {
+            "x": 505,
+            "y": 140,
+            "largura": 21,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "adds",
+        "coordenadas": {
+            "x": 530,
+            "y": 140,
+            "largura": 30,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "up.",
+        "coordenadas": {
+            "x": 564,
+            "y": 143,
+            "largura": 18,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Research",
+        "coordenadas": {
+            "x": 587,
+            "y": 140,
+            "largura": 57,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "shows",
+        "coordenadas": {
+            "x": 649,
+            "y": 140,
+            "largura": 38,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "that",
+        "coordenadas": {
+            "x": 691,
+            "y": 140,
+            "largura": 25,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "students",
+        "coordenadas": {
+            "x": 720,
+            "y": 140,
+            "largura": 54,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "who",
+        "coordenadas": {
+            "x": 778,
+            "y": 140,
+            "largura": 25,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "make",
+        "coordenadas": {
+            "x": 808,
+            "y": 140,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 846,
+            "y": 140,
+            "largura": 48,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "a",
+        "coordenadas": {
+            "x": 899,
+            "y": 143,
+            "largura": 7,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "habit",
+        "coordenadas": {
+            "x": 910,
+            "y": 140,
+            "largura": 31,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "are",
+        "coordenadas": {
+            "x": 945,
+            "y": 143,
+            "largura": 19,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "more",
+        "coordenadas": {
+            "x": 969,
+            "y": 143,
+            "largura": 31,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "likely",
+        "coordenadas": {
+            "x": 1004,
+            "y": 140,
+            "largura": 31,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "to",
+        "coordenadas": {
+            "x": 1039,
+            "y": 140,
+            "largura": 12,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "reach",
+        "coordenadas": {
+            "x": 371,
+            "y": 160,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "their",
+        "coordenadas": {
+            "x": 409,
+            "y": 160,
+            "largura": 28,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "goals.",
+        "coordenadas": {
+            "x": 441,
+            "y": 160,
+            "largura": 36,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "Set",
+        "coordenadas": {
+            "x": 482,
+            "y": 160,
+            "largura": 20,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "time",
+        "coordenadas": {
+            "x": 506,
+            "y": 160,
+            "largura": 27,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "aside",
+        "coordenadas": {
+            "x": 537,
+            "y": 160,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "to",
+        "coordenadas": {
+            "x": 573,
+            "y": 160,
+            "largura": 13,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learn",
+        "coordenadas": {
+            "x": 590,
+            "y": 160,
+            "largura": 30,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "and",
+        "coordenadas": {
+            "x": 624,
+            "y": 160,
+            "largura": 22,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "get",
+        "coordenadas": {
+            "x": 651,
+            "y": 160,
+            "largura": 20,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "reminders",
+        "coordenadas": {
+            "x": 676,
+            "y": 160,
+            "largura": 62,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "using",
+        "coordenadas": {
+            "x": 742,
+            "y": 163,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "your",
+        "coordenadas": {
+            "x": 779,
+            "y": 163,
+            "largura": 27,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 810,
+            "y": 160,
+            "largura": 49,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "scheduler.",
+        "coordenadas": {
+            "x": 864,
+            "y": 160,
+            "largura": 63,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Dismiss",
+        "coordenadas": {
+            "x": 489,
+            "y": 206,
+            "largura": 51,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Q",
+        "coordenadas": {
+            "x": 0,
+            "y": 15,
+            "largura": 14,
+            "altura": 14
+        }
+    },
+    {
+        "palavra": "Overview",
+        "coordenadas": {
+            "x": 42,
+            "y": 16,
+            "largura": 70,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Q&A",
+        "coordenadas": {
+            "x": 137,
+            "y": 16,
+            "largura": 34,
+            "altura": 12
+        }
+    },
+    {
+        "palavra": "Notes",
+        "coordenadas": {
+            "x": 196,
+            "y": 16,
+            "largura": 43,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Announcements",
+        "coordenadas": {
+            "x": 264,
+            "y": 16,
+            "largura": 124,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Reviews",
+        "coordenadas": {
+            "x": 414,
+            "y": 16,
+            "largura": 62,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Learning",
+        "coordenadas": {
+            "x": 489,
+            "y": 9,
+            "largura": 74,
+            "altura": 28
+        }
+    },
+    {
+        "palavra": "tools",
+        "coordenadas": {
+            "x": 570,
+            "y": 16,
+            "largura": 38,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Schedule",
+        "coordenadas": {
+            "x": 371,
+            "y": 117,
+            "largura": 71,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 447,
+            "y": 117,
+            "largura": 61,
+            "altura": 14
+        }
+    },
+    {
+        "palavra": "time",
+        "coordenadas": {
+            "x": 512,
+            "y": 117,
+            "largura": 34,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Learning",
+        "coordenadas": {
+            "x": 372,
+            "y": 140,
+            "largura": 52,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "alittle",
+        "coordenadas": {
+            "x": 429,
+            "y": 140,
+            "largura": 38,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "each",
+        "coordenadas": {
+            "x": 471,
+            "y": 140,
+            "largura": 29,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "day",
+        "coordenadas": {
+            "x": 505,
+            "y": 140,
+            "largura": 21,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "adds",
+        "coordenadas": {
+            "x": 530,
+            "y": 140,
+            "largura": 30,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "up.",
+        "coordenadas": {
+            "x": 564,
+            "y": 143,
+            "largura": 18,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Research",
+        "coordenadas": {
+            "x": 587,
+            "y": 140,
+            "largura": 57,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "shows",
+        "coordenadas": {
+            "x": 649,
+            "y": 140,
+            "largura": 38,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "that",
+        "coordenadas": {
+            "x": 691,
+            "y": 140,
+            "largura": 25,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "students",
+        "coordenadas": {
+            "x": 720,
+            "y": 140,
+            "largura": 54,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "who",
+        "coordenadas": {
+            "x": 778,
+            "y": 140,
+            "largura": 25,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "make",
+        "coordenadas": {
+            "x": 808,
+            "y": 140,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 846,
+            "y": 140,
+            "largura": 48,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "a",
+        "coordenadas": {
+            "x": 899,
+            "y": 143,
+            "largura": 7,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "habit",
+        "coordenadas": {
+            "x": 910,
+            "y": 140,
+            "largura": 31,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "are",
+        "coordenadas": {
+            "x": 945,
+            "y": 143,
+            "largura": 19,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "more",
+        "coordenadas": {
+            "x": 969,
+            "y": 143,
+            "largura": 31,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "likely",
+        "coordenadas": {
+            "x": 1004,
+            "y": 140,
+            "largura": 31,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "to",
+        "coordenadas": {
+            "x": 1039,
+            "y": 140,
+            "largura": 12,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "reach",
+        "coordenadas": {
+            "x": 371,
+            "y": 160,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "their",
+        "coordenadas": {
+            "x": 409,
+            "y": 160,
+            "largura": 28,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "goals.",
+        "coordenadas": {
+            "x": 441,
+            "y": 160,
+            "largura": 36,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "Set",
+        "coordenadas": {
+            "x": 482,
+            "y": 160,
+            "largura": 20,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "time",
+        "coordenadas": {
+            "x": 506,
+            "y": 160,
+            "largura": 27,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "aside",
+        "coordenadas": {
+            "x": 537,
+            "y": 160,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "to",
+        "coordenadas": {
+            "x": 573,
+            "y": 160,
+            "largura": 13,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learn",
+        "coordenadas": {
+            "x": 590,
+            "y": 160,
+            "largura": 30,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "and",
+        "coordenadas": {
+            "x": 624,
+            "y": 160,
+            "largura": 22,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "get",
+        "coordenadas": {
+            "x": 651,
+            "y": 160,
+            "largura": 20,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "reminders",
+        "coordenadas": {
+            "x": 676,
+            "y": 160,
+            "largura": 62,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "using",
+        "coordenadas": {
+            "x": 742,
+            "y": 163,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "your",
+        "coordenadas": {
+            "x": 779,
+            "y": 163,
+            "largura": 27,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 810,
+            "y": 160,
+            "largura": 49,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "scheduler.",
+        "coordenadas": {
+            "x": 864,
+            "y": 160,
+            "largura": 63,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Dismiss",
+        "coordenadas": {
+            "x": 489,
+            "y": 206,
+            "largura": 51,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Q",
+        "coordenadas": {
+            "x": 0,
+            "y": 15,
+            "largura": 14,
+            "altura": 14
+        }
+    },
+    {
+        "palavra": "Overview",
+        "coordenadas": {
+            "x": 42,
+            "y": 16,
+            "largura": 70,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Q&A",
+        "coordenadas": {
+            "x": 137,
+            "y": 16,
+            "largura": 34,
+            "altura": 12
+        }
+    },
+    {
+        "palavra": "Notes",
+        "coordenadas": {
+            "x": 196,
+            "y": 16,
+            "largura": 43,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Announcements",
+        "coordenadas": {
+            "x": 264,
+            "y": 16,
+            "largura": 124,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Reviews",
+        "coordenadas": {
+            "x": 414,
+            "y": 16,
+            "largura": 62,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Learning",
+        "coordenadas": {
+            "x": 489,
+            "y": 9,
+            "largura": 74,
+            "altura": 28
+        }
+    },
+    {
+        "palavra": "tools",
+        "coordenadas": {
+            "x": 570,
+            "y": 16,
+            "largura": 38,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Schedule",
+        "coordenadas": {
+            "x": 371,
+            "y": 117,
+            "largura": 71,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 447,
+            "y": 117,
+            "largura": 61,
+            "altura": 14
+        }
+    },
+    {
+        "palavra": "time",
+        "coordenadas": {
+            "x": 512,
+            "y": 117,
+            "largura": 34,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Learning",
+        "coordenadas": {
+            "x": 372,
+            "y": 140,
+            "largura": 52,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "alittle",
+        "coordenadas": {
+            "x": 429,
+            "y": 140,
+            "largura": 38,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "each",
+        "coordenadas": {
+            "x": 471,
+            "y": 140,
+            "largura": 29,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "day",
+        "coordenadas": {
+            "x": 505,
+            "y": 140,
+            "largura": 21,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "adds",
+        "coordenadas": {
+            "x": 530,
+            "y": 140,
+            "largura": 30,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "up.",
+        "coordenadas": {
+            "x": 564,
+            "y": 143,
+            "largura": 18,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Research",
+        "coordenadas": {
+            "x": 587,
+            "y": 140,
+            "largura": 57,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "shows",
+        "coordenadas": {
+            "x": 649,
+            "y": 140,
+            "largura": 38,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "that",
+        "coordenadas": {
+            "x": 691,
+            "y": 140,
+            "largura": 25,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "students",
+        "coordenadas": {
+            "x": 720,
+            "y": 140,
+            "largura": 54,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "who",
+        "coordenadas": {
+            "x": 778,
+            "y": 140,
+            "largura": 25,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "make",
+        "coordenadas": {
+            "x": 808,
+            "y": 140,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 846,
+            "y": 140,
+            "largura": 48,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "a",
+        "coordenadas": {
+            "x": 899,
+            "y": 143,
+            "largura": 7,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "habit",
+        "coordenadas": {
+            "x": 910,
+            "y": 140,
+            "largura": 31,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "are",
+        "coordenadas": {
+            "x": 945,
+            "y": 143,
+            "largura": 19,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "more",
+        "coordenadas": {
+            "x": 969,
+            "y": 143,
+            "largura": 31,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "likely",
+        "coordenadas": {
+            "x": 1004,
+            "y": 140,
+            "largura": 31,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "to",
+        "coordenadas": {
+            "x": 1039,
+            "y": 140,
+            "largura": 12,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "reach",
+        "coordenadas": {
+            "x": 371,
+            "y": 160,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "their",
+        "coordenadas": {
+            "x": 409,
+            "y": 160,
+            "largura": 28,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "goals.",
+        "coordenadas": {
+            "x": 441,
+            "y": 160,
+            "largura": 36,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "Set",
+        "coordenadas": {
+            "x": 482,
+            "y": 160,
+            "largura": 20,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "time",
+        "coordenadas": {
+            "x": 506,
+            "y": 160,
+            "largura": 27,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "aside",
+        "coordenadas": {
+            "x": 537,
+            "y": 160,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "to",
+        "coordenadas": {
+            "x": 573,
+            "y": 160,
+            "largura": 13,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learn",
+        "coordenadas": {
+            "x": 590,
+            "y": 160,
+            "largura": 30,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "and",
+        "coordenadas": {
+            "x": 624,
+            "y": 160,
+            "largura": 22,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "get",
+        "coordenadas": {
+            "x": 651,
+            "y": 160,
+            "largura": 20,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "reminders",
+        "coordenadas": {
+            "x": 676,
+            "y": 160,
+            "largura": 62,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "using",
+        "coordenadas": {
+            "x": 742,
+            "y": 163,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "your",
+        "coordenadas": {
+            "x": 779,
+            "y": 163,
+            "largura": 27,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 810,
+            "y": 160,
+            "largura": 49,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "scheduler.",
+        "coordenadas": {
+            "x": 864,
+            "y": 160,
+            "largura": 63,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Dismiss",
+        "coordenadas": {
+            "x": 489,
+            "y": 206,
+            "largura": 51,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Q",
+        "coordenadas": {
+            "x": 0,
+            "y": 15,
+            "largura": 14,
+            "altura": 14
+        }
+    },
+    {
+        "palavra": "Overview",
+        "coordenadas": {
+            "x": 42,
+            "y": 16,
+            "largura": 70,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Q&A",
+        "coordenadas": {
+            "x": 137,
+            "y": 16,
+            "largura": 34,
+            "altura": 12
+        }
+    },
+    {
+        "palavra": "Notes",
+        "coordenadas": {
+            "x": 196,
+            "y": 16,
+            "largura": 43,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Announcements",
+        "coordenadas": {
+            "x": 264,
+            "y": 16,
+            "largura": 124,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Reviews",
+        "coordenadas": {
+            "x": 414,
+            "y": 16,
+            "largura": 62,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Learning",
+        "coordenadas": {
+            "x": 489,
+            "y": 9,
+            "largura": 74,
+            "altura": 28
+        }
+    },
+    {
+        "palavra": "tools",
+        "coordenadas": {
+            "x": 570,
+            "y": 16,
+            "largura": 38,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Schedule",
+        "coordenadas": {
+            "x": 371,
+            "y": 117,
+            "largura": 71,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 447,
+            "y": 117,
+            "largura": 61,
+            "altura": 14
+        }
+    },
+    {
+        "palavra": "time",
+        "coordenadas": {
+            "x": 512,
+            "y": 117,
+            "largura": 34,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Learning",
+        "coordenadas": {
+            "x": 372,
+            "y": 140,
+            "largura": 52,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "alittle",
+        "coordenadas": {
+            "x": 429,
+            "y": 140,
+            "largura": 38,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "each",
+        "coordenadas": {
+            "x": 471,
+            "y": 140,
+            "largura": 29,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "day",
+        "coordenadas": {
+            "x": 505,
+            "y": 140,
+            "largura": 21,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "adds",
+        "coordenadas": {
+            "x": 530,
+            "y": 140,
+            "largura": 30,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "up.",
+        "coordenadas": {
+            "x": 564,
+            "y": 143,
+            "largura": 18,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Research",
+        "coordenadas": {
+            "x": 587,
+            "y": 140,
+            "largura": 57,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "shows",
+        "coordenadas": {
+            "x": 649,
+            "y": 140,
+            "largura": 38,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "that",
+        "coordenadas": {
+            "x": 691,
+            "y": 140,
+            "largura": 25,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "students",
+        "coordenadas": {
+            "x": 720,
+            "y": 140,
+            "largura": 54,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "who",
+        "coordenadas": {
+            "x": 778,
+            "y": 140,
+            "largura": 25,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "make",
+        "coordenadas": {
+            "x": 808,
+            "y": 140,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 846,
+            "y": 140,
+            "largura": 48,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "a",
+        "coordenadas": {
+            "x": 899,
+            "y": 143,
+            "largura": 7,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "habit",
+        "coordenadas": {
+            "x": 910,
+            "y": 140,
+            "largura": 31,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "are",
+        "coordenadas": {
+            "x": 945,
+            "y": 143,
+            "largura": 19,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "more",
+        "coordenadas": {
+            "x": 969,
+            "y": 143,
+            "largura": 31,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "likely",
+        "coordenadas": {
+            "x": 1004,
+            "y": 140,
+            "largura": 31,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "to",
+        "coordenadas": {
+            "x": 1039,
+            "y": 140,
+            "largura": 12,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "reach",
+        "coordenadas": {
+            "x": 371,
+            "y": 160,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "their",
+        "coordenadas": {
+            "x": 409,
+            "y": 160,
+            "largura": 28,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "goals.",
+        "coordenadas": {
+            "x": 441,
+            "y": 160,
+            "largura": 36,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "Set",
+        "coordenadas": {
+            "x": 482,
+            "y": 160,
+            "largura": 20,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "time",
+        "coordenadas": {
+            "x": 506,
+            "y": 160,
+            "largura": 27,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "aside",
+        "coordenadas": {
+            "x": 537,
+            "y": 160,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "to",
+        "coordenadas": {
+            "x": 573,
+            "y": 160,
+            "largura": 13,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learn",
+        "coordenadas": {
+            "x": 590,
+            "y": 160,
+            "largura": 30,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "and",
+        "coordenadas": {
+            "x": 624,
+            "y": 160,
+            "largura": 22,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "get",
+        "coordenadas": {
+            "x": 651,
+            "y": 160,
+            "largura": 20,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "reminders",
+        "coordenadas": {
+            "x": 676,
+            "y": 160,
+            "largura": 62,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "using",
+        "coordenadas": {
+            "x": 742,
+            "y": 163,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "your",
+        "coordenadas": {
+            "x": 779,
+            "y": 163,
+            "largura": 27,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 810,
+            "y": 160,
+            "largura": 49,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "scheduler.",
+        "coordenadas": {
+            "x": 864,
+            "y": 160,
+            "largura": 63,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Dismiss",
+        "coordenadas": {
+            "x": 489,
+            "y": 206,
+            "largura": 51,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Q",
+        "coordenadas": {
+            "x": 0,
+            "y": 15,
+            "largura": 14,
+            "altura": 14
+        }
+    },
+    {
+        "palavra": "Overview",
+        "coordenadas": {
+            "x": 42,
+            "y": 16,
+            "largura": 70,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Q&A",
+        "coordenadas": {
+            "x": 137,
+            "y": 16,
+            "largura": 34,
+            "altura": 12
+        }
+    },
+    {
+        "palavra": "Notes",
+        "coordenadas": {
+            "x": 196,
+            "y": 16,
+            "largura": 43,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Announcements",
+        "coordenadas": {
+            "x": 264,
+            "y": 16,
+            "largura": 124,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Reviews",
+        "coordenadas": {
+            "x": 414,
+            "y": 16,
+            "largura": 62,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Learning",
+        "coordenadas": {
+            "x": 489,
+            "y": 9,
+            "largura": 74,
+            "altura": 28
+        }
+    },
+    {
+        "palavra": "tools",
+        "coordenadas": {
+            "x": 570,
+            "y": 16,
+            "largura": 38,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Schedule",
+        "coordenadas": {
+            "x": 371,
+            "y": 117,
+            "largura": 71,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 447,
+            "y": 117,
+            "largura": 61,
+            "altura": 14
+        }
+    },
+    {
+        "palavra": "time",
+        "coordenadas": {
+            "x": 512,
+            "y": 117,
+            "largura": 34,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Learning",
+        "coordenadas": {
+            "x": 372,
+            "y": 140,
+            "largura": 52,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "alittle",
+        "coordenadas": {
+            "x": 429,
+            "y": 140,
+            "largura": 38,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "each",
+        "coordenadas": {
+            "x": 471,
+            "y": 140,
+            "largura": 29,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "day",
+        "coordenadas": {
+            "x": 505,
+            "y": 140,
+            "largura": 21,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "adds",
+        "coordenadas": {
+            "x": 530,
+            "y": 140,
+            "largura": 30,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "up.",
+        "coordenadas": {
+            "x": 564,
+            "y": 143,
+            "largura": 18,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Research",
+        "coordenadas": {
+            "x": 587,
+            "y": 140,
+            "largura": 57,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "shows",
+        "coordenadas": {
+            "x": 649,
+            "y": 140,
+            "largura": 38,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "that",
+        "coordenadas": {
+            "x": 691,
+            "y": 140,
+            "largura": 25,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "students",
+        "coordenadas": {
+            "x": 720,
+            "y": 140,
+            "largura": 54,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "who",
+        "coordenadas": {
+            "x": 778,
+            "y": 140,
+            "largura": 25,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "make",
+        "coordenadas": {
+            "x": 808,
+            "y": 140,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 846,
+            "y": 140,
+            "largura": 48,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "a",
+        "coordenadas": {
+            "x": 899,
+            "y": 143,
+            "largura": 7,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "habit",
+        "coordenadas": {
+            "x": 910,
+            "y": 140,
+            "largura": 31,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "are",
+        "coordenadas": {
+            "x": 945,
+            "y": 143,
+            "largura": 19,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "more",
+        "coordenadas": {
+            "x": 969,
+            "y": 143,
+            "largura": 31,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "likely",
+        "coordenadas": {
+            "x": 1004,
+            "y": 140,
+            "largura": 31,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "to",
+        "coordenadas": {
+            "x": 1039,
+            "y": 140,
+            "largura": 12,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "reach",
+        "coordenadas": {
+            "x": 371,
+            "y": 160,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "their",
+        "coordenadas": {
+            "x": 409,
+            "y": 160,
+            "largura": 28,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "goals.",
+        "coordenadas": {
+            "x": 441,
+            "y": 160,
+            "largura": 36,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "Set",
+        "coordenadas": {
+            "x": 482,
+            "y": 160,
+            "largura": 20,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "time",
+        "coordenadas": {
+            "x": 506,
+            "y": 160,
+            "largura": 27,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "aside",
+        "coordenadas": {
+            "x": 537,
+            "y": 160,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "to",
+        "coordenadas": {
+            "x": 573,
+            "y": 160,
+            "largura": 13,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learn",
+        "coordenadas": {
+            "x": 590,
+            "y": 160,
+            "largura": 30,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "and",
+        "coordenadas": {
+            "x": 624,
+            "y": 160,
+            "largura": 22,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "get",
+        "coordenadas": {
+            "x": 651,
+            "y": 160,
+            "largura": 20,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "reminders",
+        "coordenadas": {
+            "x": 676,
+            "y": 160,
+            "largura": 62,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "using",
+        "coordenadas": {
+            "x": 742,
+            "y": 163,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "your",
+        "coordenadas": {
+            "x": 779,
+            "y": 163,
+            "largura": 27,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 810,
+            "y": 160,
+            "largura": 49,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "scheduler.",
+        "coordenadas": {
+            "x": 864,
+            "y": 160,
+            "largura": 63,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Dismiss",
+        "coordenadas": {
+            "x": 489,
+            "y": 206,
+            "largura": 51,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Q",
+        "coordenadas": {
+            "x": 0,
+            "y": 15,
+            "largura": 14,
+            "altura": 14
+        }
+    },
+    {
+        "palavra": "Overview",
+        "coordenadas": {
+            "x": 42,
+            "y": 16,
+            "largura": 70,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Q&A",
+        "coordenadas": {
+            "x": 137,
+            "y": 16,
+            "largura": 34,
+            "altura": 12
+        }
+    },
+    {
+        "palavra": "Notes",
+        "coordenadas": {
+            "x": 196,
+            "y": 16,
+            "largura": 43,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Announcements",
+        "coordenadas": {
+            "x": 264,
+            "y": 16,
+            "largura": 124,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Reviews",
+        "coordenadas": {
+            "x": 414,
+            "y": 16,
+            "largura": 62,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Learning",
+        "coordenadas": {
+            "x": 489,
+            "y": 9,
+            "largura": 74,
+            "altura": 28
+        }
+    },
+    {
+        "palavra": "tools",
+        "coordenadas": {
+            "x": 570,
+            "y": 16,
+            "largura": 38,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Schedule",
+        "coordenadas": {
+            "x": 371,
+            "y": 117,
+            "largura": 71,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 447,
+            "y": 117,
+            "largura": 61,
+            "altura": 14
+        }
+    },
+    {
+        "palavra": "time",
+        "coordenadas": {
+            "x": 512,
+            "y": 117,
+            "largura": 34,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Learning",
+        "coordenadas": {
+            "x": 372,
+            "y": 140,
+            "largura": 52,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "alittle",
+        "coordenadas": {
+            "x": 429,
+            "y": 140,
+            "largura": 38,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "each",
+        "coordenadas": {
+            "x": 471,
+            "y": 140,
+            "largura": 29,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "day",
+        "coordenadas": {
+            "x": 505,
+            "y": 140,
+            "largura": 21,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "adds",
+        "coordenadas": {
+            "x": 530,
+            "y": 140,
+            "largura": 30,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "up.",
+        "coordenadas": {
+            "x": 564,
+            "y": 143,
+            "largura": 18,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Research",
+        "coordenadas": {
+            "x": 587,
+            "y": 140,
+            "largura": 57,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "shows",
+        "coordenadas": {
+            "x": 649,
+            "y": 140,
+            "largura": 38,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "that",
+        "coordenadas": {
+            "x": 691,
+            "y": 140,
+            "largura": 25,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "students",
+        "coordenadas": {
+            "x": 720,
+            "y": 140,
+            "largura": 54,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "who",
+        "coordenadas": {
+            "x": 778,
+            "y": 140,
+            "largura": 25,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "make",
+        "coordenadas": {
+            "x": 808,
+            "y": 140,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 846,
+            "y": 140,
+            "largura": 48,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "a",
+        "coordenadas": {
+            "x": 899,
+            "y": 143,
+            "largura": 7,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "habit",
+        "coordenadas": {
+            "x": 910,
+            "y": 140,
+            "largura": 31,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "are",
+        "coordenadas": {
+            "x": 945,
+            "y": 143,
+            "largura": 19,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "more",
+        "coordenadas": {
+            "x": 969,
+            "y": 143,
+            "largura": 31,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "likely",
+        "coordenadas": {
+            "x": 1004,
+            "y": 140,
+            "largura": 31,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "to",
+        "coordenadas": {
+            "x": 1039,
+            "y": 140,
+            "largura": 12,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "reach",
+        "coordenadas": {
+            "x": 371,
+            "y": 160,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "their",
+        "coordenadas": {
+            "x": 409,
+            "y": 160,
+            "largura": 28,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "goals.",
+        "coordenadas": {
+            "x": 441,
+            "y": 160,
+            "largura": 36,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "Set",
+        "coordenadas": {
+            "x": 482,
+            "y": 160,
+            "largura": 20,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "time",
+        "coordenadas": {
+            "x": 506,
+            "y": 160,
+            "largura": 27,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "aside",
+        "coordenadas": {
+            "x": 537,
+            "y": 160,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "to",
+        "coordenadas": {
+            "x": 573,
+            "y": 160,
+            "largura": 13,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learn",
+        "coordenadas": {
+            "x": 590,
+            "y": 160,
+            "largura": 30,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "and",
+        "coordenadas": {
+            "x": 624,
+            "y": 160,
+            "largura": 22,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "get",
+        "coordenadas": {
+            "x": 651,
+            "y": 160,
+            "largura": 20,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "reminders",
+        "coordenadas": {
+            "x": 676,
+            "y": 160,
+            "largura": 62,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "using",
+        "coordenadas": {
+            "x": 742,
+            "y": 163,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "your",
+        "coordenadas": {
+            "x": 779,
+            "y": 163,
+            "largura": 27,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 810,
+            "y": 160,
+            "largura": 49,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "scheduler.",
+        "coordenadas": {
+            "x": 864,
+            "y": 160,
+            "largura": 63,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Dismiss",
+        "coordenadas": {
+            "x": 489,
+            "y": 206,
+            "largura": 51,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Q",
+        "coordenadas": {
+            "x": 0,
+            "y": 15,
+            "largura": 14,
+            "altura": 14
+        }
+    },
+    {
+        "palavra": "Overview",
+        "coordenadas": {
+            "x": 42,
+            "y": 16,
+            "largura": 70,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Q&A",
+        "coordenadas": {
+            "x": 137,
+            "y": 16,
+            "largura": 34,
+            "altura": 12
+        }
+    },
+    {
+        "palavra": "Notes",
+        "coordenadas": {
+            "x": 196,
+            "y": 16,
+            "largura": 43,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Announcements",
+        "coordenadas": {
+            "x": 264,
+            "y": 16,
+            "largura": 124,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Reviews",
+        "coordenadas": {
+            "x": 414,
+            "y": 16,
+            "largura": 62,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Learning",
+        "coordenadas": {
+            "x": 489,
+            "y": 9,
+            "largura": 74,
+            "altura": 28
+        }
+    },
+    {
+        "palavra": "tools",
+        "coordenadas": {
+            "x": 570,
+            "y": 16,
+            "largura": 38,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Schedule",
+        "coordenadas": {
+            "x": 371,
+            "y": 117,
+            "largura": 71,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 447,
+            "y": 117,
+            "largura": 61,
+            "altura": 14
+        }
+    },
+    {
+        "palavra": "time",
+        "coordenadas": {
+            "x": 512,
+            "y": 117,
+            "largura": 34,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Learning",
+        "coordenadas": {
+            "x": 372,
+            "y": 140,
+            "largura": 52,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "alittle",
+        "coordenadas": {
+            "x": 429,
+            "y": 140,
+            "largura": 38,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "each",
+        "coordenadas": {
+            "x": 471,
+            "y": 140,
+            "largura": 29,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "day",
+        "coordenadas": {
+            "x": 505,
+            "y": 140,
+            "largura": 21,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "adds",
+        "coordenadas": {
+            "x": 530,
+            "y": 140,
+            "largura": 30,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "up.",
+        "coordenadas": {
+            "x": 564,
+            "y": 143,
+            "largura": 18,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Research",
+        "coordenadas": {
+            "x": 587,
+            "y": 140,
+            "largura": 57,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "shows",
+        "coordenadas": {
+            "x": 649,
+            "y": 140,
+            "largura": 38,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "that",
+        "coordenadas": {
+            "x": 691,
+            "y": 140,
+            "largura": 25,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "students",
+        "coordenadas": {
+            "x": 720,
+            "y": 140,
+            "largura": 54,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "who",
+        "coordenadas": {
+            "x": 778,
+            "y": 140,
+            "largura": 25,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "make",
+        "coordenadas": {
+            "x": 808,
+            "y": 140,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 846,
+            "y": 140,
+            "largura": 48,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "a",
+        "coordenadas": {
+            "x": 899,
+            "y": 143,
+            "largura": 7,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "habit",
+        "coordenadas": {
+            "x": 910,
+            "y": 140,
+            "largura": 31,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "are",
+        "coordenadas": {
+            "x": 945,
+            "y": 143,
+            "largura": 19,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "more",
+        "coordenadas": {
+            "x": 969,
+            "y": 143,
+            "largura": 31,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "likely",
+        "coordenadas": {
+            "x": 1004,
+            "y": 140,
+            "largura": 31,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "to",
+        "coordenadas": {
+            "x": 1039,
+            "y": 140,
+            "largura": 12,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "reach",
+        "coordenadas": {
+            "x": 371,
+            "y": 160,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "their",
+        "coordenadas": {
+            "x": 409,
+            "y": 160,
+            "largura": 28,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "goals.",
+        "coordenadas": {
+            "x": 441,
+            "y": 160,
+            "largura": 36,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "Set",
+        "coordenadas": {
+            "x": 482,
+            "y": 160,
+            "largura": 20,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "time",
+        "coordenadas": {
+            "x": 506,
+            "y": 160,
+            "largura": 27,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "aside",
+        "coordenadas": {
+            "x": 537,
+            "y": 160,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "to",
+        "coordenadas": {
+            "x": 573,
+            "y": 160,
+            "largura": 13,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learn",
+        "coordenadas": {
+            "x": 590,
+            "y": 160,
+            "largura": 30,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "and",
+        "coordenadas": {
+            "x": 624,
+            "y": 160,
+            "largura": 22,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "get",
+        "coordenadas": {
+            "x": 651,
+            "y": 160,
+            "largura": 20,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "reminders",
+        "coordenadas": {
+            "x": 676,
+            "y": 160,
+            "largura": 62,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "using",
+        "coordenadas": {
+            "x": 742,
+            "y": 163,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "your",
+        "coordenadas": {
+            "x": 779,
+            "y": 163,
+            "largura": 27,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 810,
+            "y": 160,
+            "largura": 49,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "scheduler.",
+        "coordenadas": {
+            "x": 864,
+            "y": 160,
+            "largura": 63,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Dismiss",
+        "coordenadas": {
+            "x": 489,
+            "y": 206,
+            "largura": 51,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Q",
+        "coordenadas": {
+            "x": 0,
+            "y": 15,
+            "largura": 14,
+            "altura": 14
+        }
+    },
+    {
+        "palavra": "Overview",
+        "coordenadas": {
+            "x": 42,
+            "y": 16,
+            "largura": 70,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Q&A",
+        "coordenadas": {
+            "x": 137,
+            "y": 16,
+            "largura": 34,
+            "altura": 12
+        }
+    },
+    {
+        "palavra": "Notes",
+        "coordenadas": {
+            "x": 196,
+            "y": 16,
+            "largura": 43,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Announcements",
+        "coordenadas": {
+            "x": 264,
+            "y": 16,
+            "largura": 124,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Reviews",
+        "coordenadas": {
+            "x": 414,
+            "y": 16,
+            "largura": 62,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Learning",
+        "coordenadas": {
+            "x": 489,
+            "y": 9,
+            "largura": 74,
+            "altura": 28
+        }
+    },
+    {
+        "palavra": "tools",
+        "coordenadas": {
+            "x": 570,
+            "y": 16,
+            "largura": 38,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Schedule",
+        "coordenadas": {
+            "x": 371,
+            "y": 117,
+            "largura": 71,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 447,
+            "y": 117,
+            "largura": 61,
+            "altura": 14
+        }
+    },
+    {
+        "palavra": "time",
+        "coordenadas": {
+            "x": 512,
+            "y": 117,
+            "largura": 34,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Learning",
+        "coordenadas": {
+            "x": 372,
+            "y": 140,
+            "largura": 52,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "alittle",
+        "coordenadas": {
+            "x": 429,
+            "y": 140,
+            "largura": 38,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "each",
+        "coordenadas": {
+            "x": 471,
+            "y": 140,
+            "largura": 29,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "day",
+        "coordenadas": {
+            "x": 505,
+            "y": 140,
+            "largura": 21,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "adds",
+        "coordenadas": {
+            "x": 530,
+            "y": 140,
+            "largura": 30,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "up.",
+        "coordenadas": {
+            "x": 564,
+            "y": 143,
+            "largura": 18,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Research",
+        "coordenadas": {
+            "x": 587,
+            "y": 140,
+            "largura": 57,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "shows",
+        "coordenadas": {
+            "x": 649,
+            "y": 140,
+            "largura": 38,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "that",
+        "coordenadas": {
+            "x": 691,
+            "y": 140,
+            "largura": 25,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "students",
+        "coordenadas": {
+            "x": 720,
+            "y": 140,
+            "largura": 54,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "who",
+        "coordenadas": {
+            "x": 778,
+            "y": 140,
+            "largura": 25,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "make",
+        "coordenadas": {
+            "x": 808,
+            "y": 140,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 846,
+            "y": 140,
+            "largura": 48,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "a",
+        "coordenadas": {
+            "x": 899,
+            "y": 143,
+            "largura": 7,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "habit",
+        "coordenadas": {
+            "x": 910,
+            "y": 140,
+            "largura": 31,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "are",
+        "coordenadas": {
+            "x": 945,
+            "y": 143,
+            "largura": 19,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "more",
+        "coordenadas": {
+            "x": 969,
+            "y": 143,
+            "largura": 31,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "likely",
+        "coordenadas": {
+            "x": 1004,
+            "y": 140,
+            "largura": 31,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "to",
+        "coordenadas": {
+            "x": 1039,
+            "y": 140,
+            "largura": 12,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "reach",
+        "coordenadas": {
+            "x": 371,
+            "y": 160,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "their",
+        "coordenadas": {
+            "x": 409,
+            "y": 160,
+            "largura": 28,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "goals.",
+        "coordenadas": {
+            "x": 441,
+            "y": 160,
+            "largura": 36,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "Set",
+        "coordenadas": {
+            "x": 482,
+            "y": 160,
+            "largura": 20,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "time",
+        "coordenadas": {
+            "x": 506,
+            "y": 160,
+            "largura": 27,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "aside",
+        "coordenadas": {
+            "x": 537,
+            "y": 160,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "to",
+        "coordenadas": {
+            "x": 573,
+            "y": 160,
+            "largura": 13,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learn",
+        "coordenadas": {
+            "x": 590,
+            "y": 160,
+            "largura": 30,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "and",
+        "coordenadas": {
+            "x": 624,
+            "y": 160,
+            "largura": 22,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "get",
+        "coordenadas": {
+            "x": 651,
+            "y": 160,
+            "largura": 20,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "reminders",
+        "coordenadas": {
+            "x": 676,
+            "y": 160,
+            "largura": 62,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "using",
+        "coordenadas": {
+            "x": 742,
+            "y": 163,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "your",
+        "coordenadas": {
+            "x": 779,
+            "y": 163,
+            "largura": 27,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 810,
+            "y": 160,
+            "largura": 49,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "scheduler.",
+        "coordenadas": {
+            "x": 864,
+            "y": 160,
+            "largura": 63,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Dismiss",
+        "coordenadas": {
+            "x": 489,
+            "y": 206,
+            "largura": 51,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Q",
+        "coordenadas": {
+            "x": 0,
+            "y": 15,
+            "largura": 14,
+            "altura": 14
+        }
+    },
+    {
+        "palavra": "Overview",
+        "coordenadas": {
+            "x": 42,
+            "y": 16,
+            "largura": 70,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Q&A",
+        "coordenadas": {
+            "x": 137,
+            "y": 16,
+            "largura": 34,
+            "altura": 12
+        }
+    },
+    {
+        "palavra": "Notes",
+        "coordenadas": {
+            "x": 196,
+            "y": 16,
+            "largura": 43,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Announcements",
+        "coordenadas": {
+            "x": 264,
+            "y": 16,
+            "largura": 124,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Reviews",
+        "coordenadas": {
+            "x": 414,
+            "y": 16,
+            "largura": 62,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Learning",
+        "coordenadas": {
+            "x": 489,
+            "y": 9,
+            "largura": 74,
+            "altura": 28
+        }
+    },
+    {
+        "palavra": "tools",
+        "coordenadas": {
+            "x": 570,
+            "y": 16,
+            "largura": 38,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Schedule",
+        "coordenadas": {
+            "x": 371,
+            "y": 117,
+            "largura": 71,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 447,
+            "y": 117,
+            "largura": 61,
+            "altura": 14
+        }
+    },
+    {
+        "palavra": "time",
+        "coordenadas": {
+            "x": 512,
+            "y": 117,
+            "largura": 34,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Learning",
+        "coordenadas": {
+            "x": 372,
+            "y": 140,
+            "largura": 52,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "alittle",
+        "coordenadas": {
+            "x": 429,
+            "y": 140,
+            "largura": 38,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "each",
+        "coordenadas": {
+            "x": 471,
+            "y": 140,
+            "largura": 29,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "day",
+        "coordenadas": {
+            "x": 505,
+            "y": 140,
+            "largura": 21,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "adds",
+        "coordenadas": {
+            "x": 530,
+            "y": 140,
+            "largura": 30,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "up.",
+        "coordenadas": {
+            "x": 564,
+            "y": 143,
+            "largura": 18,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Research",
+        "coordenadas": {
+            "x": 587,
+            "y": 140,
+            "largura": 57,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "shows",
+        "coordenadas": {
+            "x": 649,
+            "y": 140,
+            "largura": 38,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "that",
+        "coordenadas": {
+            "x": 691,
+            "y": 140,
+            "largura": 25,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "students",
+        "coordenadas": {
+            "x": 720,
+            "y": 140,
+            "largura": 54,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "who",
+        "coordenadas": {
+            "x": 778,
+            "y": 140,
+            "largura": 25,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "make",
+        "coordenadas": {
+            "x": 808,
+            "y": 140,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 846,
+            "y": 140,
+            "largura": 48,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "a",
+        "coordenadas": {
+            "x": 899,
+            "y": 143,
+            "largura": 7,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "habit",
+        "coordenadas": {
+            "x": 910,
+            "y": 140,
+            "largura": 31,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "are",
+        "coordenadas": {
+            "x": 945,
+            "y": 143,
+            "largura": 19,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "more",
+        "coordenadas": {
+            "x": 969,
+            "y": 143,
+            "largura": 31,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "likely",
+        "coordenadas": {
+            "x": 1004,
+            "y": 140,
+            "largura": 31,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "to",
+        "coordenadas": {
+            "x": 1039,
+            "y": 140,
+            "largura": 12,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "reach",
+        "coordenadas": {
+            "x": 371,
+            "y": 160,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "their",
+        "coordenadas": {
+            "x": 409,
+            "y": 160,
+            "largura": 28,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "goals.",
+        "coordenadas": {
+            "x": 441,
+            "y": 160,
+            "largura": 36,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "Set",
+        "coordenadas": {
+            "x": 482,
+            "y": 160,
+            "largura": 20,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "time",
+        "coordenadas": {
+            "x": 506,
+            "y": 160,
+            "largura": 27,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "aside",
+        "coordenadas": {
+            "x": 537,
+            "y": 160,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "to",
+        "coordenadas": {
+            "x": 573,
+            "y": 160,
+            "largura": 13,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learn",
+        "coordenadas": {
+            "x": 590,
+            "y": 160,
+            "largura": 30,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "and",
+        "coordenadas": {
+            "x": 624,
+            "y": 160,
+            "largura": 22,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "get",
+        "coordenadas": {
+            "x": 651,
+            "y": 160,
+            "largura": 20,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "reminders",
+        "coordenadas": {
+            "x": 676,
+            "y": 160,
+            "largura": 62,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "using",
+        "coordenadas": {
+            "x": 742,
+            "y": 163,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "your",
+        "coordenadas": {
+            "x": 779,
+            "y": 163,
+            "largura": 27,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 810,
+            "y": 160,
+            "largura": 49,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "scheduler.",
+        "coordenadas": {
+            "x": 864,
+            "y": 160,
+            "largura": 63,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Dismiss",
+        "coordenadas": {
+            "x": 489,
+            "y": 206,
+            "largura": 51,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Q",
+        "coordenadas": {
+            "x": 0,
+            "y": 15,
+            "largura": 14,
+            "altura": 14
+        }
+    },
+    {
+        "palavra": "Overview",
+        "coordenadas": {
+            "x": 42,
+            "y": 16,
+            "largura": 70,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Q&A",
+        "coordenadas": {
+            "x": 137,
+            "y": 16,
+            "largura": 34,
+            "altura": 12
+        }
+    },
+    {
+        "palavra": "Notes",
+        "coordenadas": {
+            "x": 196,
+            "y": 16,
+            "largura": 43,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Announcements",
+        "coordenadas": {
+            "x": 264,
+            "y": 16,
+            "largura": 124,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Reviews",
+        "coordenadas": {
+            "x": 414,
+            "y": 16,
+            "largura": 62,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Learning",
+        "coordenadas": {
+            "x": 489,
+            "y": 9,
+            "largura": 74,
+            "altura": 28
+        }
+    },
+    {
+        "palavra": "tools",
+        "coordenadas": {
+            "x": 570,
+            "y": 16,
+            "largura": 38,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Schedule",
+        "coordenadas": {
+            "x": 371,
+            "y": 117,
+            "largura": 71,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 447,
+            "y": 117,
+            "largura": 61,
+            "altura": 14
+        }
+    },
+    {
+        "palavra": "time",
+        "coordenadas": {
+            "x": 512,
+            "y": 117,
+            "largura": 34,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Learning",
+        "coordenadas": {
+            "x": 372,
+            "y": 140,
+            "largura": 52,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "alittle",
+        "coordenadas": {
+            "x": 429,
+            "y": 140,
+            "largura": 38,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "each",
+        "coordenadas": {
+            "x": 471,
+            "y": 140,
+            "largura": 29,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "day",
+        "coordenadas": {
+            "x": 505,
+            "y": 140,
+            "largura": 21,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "adds",
+        "coordenadas": {
+            "x": 530,
+            "y": 140,
+            "largura": 30,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "up.",
+        "coordenadas": {
+            "x": 564,
+            "y": 143,
+            "largura": 18,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Research",
+        "coordenadas": {
+            "x": 587,
+            "y": 140,
+            "largura": 57,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "shows",
+        "coordenadas": {
+            "x": 649,
+            "y": 140,
+            "largura": 38,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "that",
+        "coordenadas": {
+            "x": 691,
+            "y": 140,
+            "largura": 25,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "students",
+        "coordenadas": {
+            "x": 720,
+            "y": 140,
+            "largura": 54,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "who",
+        "coordenadas": {
+            "x": 778,
+            "y": 140,
+            "largura": 25,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "make",
+        "coordenadas": {
+            "x": 808,
+            "y": 140,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 846,
+            "y": 140,
+            "largura": 48,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "a",
+        "coordenadas": {
+            "x": 899,
+            "y": 143,
+            "largura": 7,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "habit",
+        "coordenadas": {
+            "x": 910,
+            "y": 140,
+            "largura": 31,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "are",
+        "coordenadas": {
+            "x": 945,
+            "y": 143,
+            "largura": 19,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "more",
+        "coordenadas": {
+            "x": 969,
+            "y": 143,
+            "largura": 31,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "likely",
+        "coordenadas": {
+            "x": 1004,
+            "y": 140,
+            "largura": 31,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "to",
+        "coordenadas": {
+            "x": 1039,
+            "y": 140,
+            "largura": 12,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "reach",
+        "coordenadas": {
+            "x": 371,
+            "y": 160,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "their",
+        "coordenadas": {
+            "x": 409,
+            "y": 160,
+            "largura": 28,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "goals.",
+        "coordenadas": {
+            "x": 441,
+            "y": 160,
+            "largura": 36,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "Set",
+        "coordenadas": {
+            "x": 482,
+            "y": 160,
+            "largura": 20,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "time",
+        "coordenadas": {
+            "x": 506,
+            "y": 160,
+            "largura": 27,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "aside",
+        "coordenadas": {
+            "x": 537,
+            "y": 160,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "to",
+        "coordenadas": {
+            "x": 573,
+            "y": 160,
+            "largura": 13,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learn",
+        "coordenadas": {
+            "x": 590,
+            "y": 160,
+            "largura": 30,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "and",
+        "coordenadas": {
+            "x": 624,
+            "y": 160,
+            "largura": 22,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "get",
+        "coordenadas": {
+            "x": 651,
+            "y": 160,
+            "largura": 20,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "reminders",
+        "coordenadas": {
+            "x": 676,
+            "y": 160,
+            "largura": 62,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "using",
+        "coordenadas": {
+            "x": 742,
+            "y": 163,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "your",
+        "coordenadas": {
+            "x": 779,
+            "y": 163,
+            "largura": 27,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 810,
+            "y": 160,
+            "largura": 49,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "scheduler.",
+        "coordenadas": {
+            "x": 864,
+            "y": 160,
+            "largura": 63,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Dismiss",
+        "coordenadas": {
+            "x": 489,
+            "y": 206,
+            "largura": 51,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Q",
+        "coordenadas": {
+            "x": 0,
+            "y": 15,
+            "largura": 14,
+            "altura": 14
+        }
+    },
+    {
+        "palavra": "Overview",
+        "coordenadas": {
+            "x": 42,
+            "y": 16,
+            "largura": 70,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Q&A",
+        "coordenadas": {
+            "x": 137,
+            "y": 16,
+            "largura": 34,
+            "altura": 12
+        }
+    },
+    {
+        "palavra": "Notes",
+        "coordenadas": {
+            "x": 196,
+            "y": 16,
+            "largura": 43,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Announcements",
+        "coordenadas": {
+            "x": 264,
+            "y": 16,
+            "largura": 124,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Reviews",
+        "coordenadas": {
+            "x": 414,
+            "y": 16,
+            "largura": 62,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Learning",
+        "coordenadas": {
+            "x": 489,
+            "y": 9,
+            "largura": 74,
+            "altura": 28
+        }
+    },
+    {
+        "palavra": "tools",
+        "coordenadas": {
+            "x": 570,
+            "y": 16,
+            "largura": 38,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Schedule",
+        "coordenadas": {
+            "x": 371,
+            "y": 117,
+            "largura": 71,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 447,
+            "y": 117,
+            "largura": 61,
+            "altura": 14
+        }
+    },
+    {
+        "palavra": "time",
+        "coordenadas": {
+            "x": 512,
+            "y": 117,
+            "largura": 34,
+            "altura": 11
+        }
+    },
+    {
+        "palavra": "Learning",
+        "coordenadas": {
+            "x": 372,
+            "y": 140,
+            "largura": 52,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "alittle",
+        "coordenadas": {
+            "x": 429,
+            "y": 140,
+            "largura": 38,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "each",
+        "coordenadas": {
+            "x": 471,
+            "y": 140,
+            "largura": 29,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "day",
+        "coordenadas": {
+            "x": 505,
+            "y": 140,
+            "largura": 21,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "adds",
+        "coordenadas": {
+            "x": 530,
+            "y": 140,
+            "largura": 30,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "up.",
+        "coordenadas": {
+            "x": 564,
+            "y": 143,
+            "largura": 18,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Research",
+        "coordenadas": {
+            "x": 587,
+            "y": 140,
+            "largura": 57,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "shows",
+        "coordenadas": {
+            "x": 649,
+            "y": 140,
+            "largura": 38,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "that",
+        "coordenadas": {
+            "x": 691,
+            "y": 140,
+            "largura": 25,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "students",
+        "coordenadas": {
+            "x": 720,
+            "y": 140,
+            "largura": 54,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "who",
+        "coordenadas": {
+            "x": 778,
+            "y": 140,
+            "largura": 25,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "make",
+        "coordenadas": {
+            "x": 808,
+            "y": 140,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 846,
+            "y": 140,
+            "largura": 48,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "a",
+        "coordenadas": {
+            "x": 899,
+            "y": 143,
+            "largura": 7,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "habit",
+        "coordenadas": {
+            "x": 910,
+            "y": 140,
+            "largura": 31,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "are",
+        "coordenadas": {
+            "x": 945,
+            "y": 143,
+            "largura": 19,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "more",
+        "coordenadas": {
+            "x": 969,
+            "y": 143,
+            "largura": 31,
+            "altura": 7
+        }
+    },
+    {
+        "palavra": "likely",
+        "coordenadas": {
+            "x": 1004,
+            "y": 140,
+            "largura": 31,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "to",
+        "coordenadas": {
+            "x": 1039,
+            "y": 140,
+            "largura": 12,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "reach",
+        "coordenadas": {
+            "x": 371,
+            "y": 160,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "their",
+        "coordenadas": {
+            "x": 409,
+            "y": 160,
+            "largura": 28,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "goals.",
+        "coordenadas": {
+            "x": 441,
+            "y": 160,
+            "largura": 36,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "Set",
+        "coordenadas": {
+            "x": 482,
+            "y": 160,
+            "largura": 20,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "time",
+        "coordenadas": {
+            "x": 506,
+            "y": 160,
+            "largura": 27,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "aside",
+        "coordenadas": {
+            "x": 537,
+            "y": 160,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "to",
+        "coordenadas": {
+            "x": 573,
+            "y": 160,
+            "largura": 13,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learn",
+        "coordenadas": {
+            "x": 590,
+            "y": 160,
+            "largura": 30,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "and",
+        "coordenadas": {
+            "x": 624,
+            "y": 160,
+            "largura": 22,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "get",
+        "coordenadas": {
+            "x": 651,
+            "y": 160,
+            "largura": 20,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "reminders",
+        "coordenadas": {
+            "x": 676,
+            "y": 160,
+            "largura": 62,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "using",
+        "coordenadas": {
+            "x": 742,
+            "y": 163,
+            "largura": 33,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "your",
+        "coordenadas": {
+            "x": 779,
+            "y": 163,
+            "largura": 27,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "learning",
+        "coordenadas": {
+            "x": 810,
+            "y": 160,
+            "largura": 49,
+            "altura": 13
+        }
+    },
+    {
+        "palavra": "scheduler.",
+        "coordenadas": {
+            "x": 864,
+            "y": 160,
+            "largura": 63,
+            "altura": 10
+        }
+    },
+    {
+        "palavra": "Dismiss",
+        "coordenadas": {
+            "x": 489,
+            "y": 206,
+            "largura": 51,
+            "altura": 10
+        }
+    }
+]
